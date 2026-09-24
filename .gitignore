@@ -1,0 +1,13 @@
+.venv/
+work/
+eda_workspace/
+eda_output/
+output/
+*.zip
+*.tsv
+*.pkl
+*.parquet
+__pycache__/
+tempCodeRunnerFile.py
+stage2_log.txt
+stage2_small_log.txt
