@@ -1,11 +1,5 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
-**Team Name:** [your team name]
-**Team Members:** [your name(s)]
-**Submission Date:** [today's date]
-
----
-
 ## 1. Executive Summary
 We built a blocking-plus-classifier entity resolution pipeline: per-country
 TF-IDF candidate retrieval feeding a LightGBM matcher trained on 41 pairwise
